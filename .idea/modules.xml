@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/logindemo.iml" filepath="$PROJECT_DIR$/logindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindemo-captcha/logindemo-captcha.iml" filepath="$PROJECT_DIR$/logindemo-captcha/logindemo-captcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindemo-email/logindemo-email.iml" filepath="$PROJECT_DIR$/logindemo-email/logindemo-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindemo-persist/logindemo-persist.iml" filepath="$PROJECT_DIR$/logindemo-persist/logindemo-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindemo-service/logindemo-service.iml" filepath="$PROJECT_DIR$/logindemo-service/logindemo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindemo-web/logindemo-web.iml" filepath="$PROJECT_DIR$/logindemo-web/logindemo-web.iml" />
+    </modules>
+  </component>
+</project>
